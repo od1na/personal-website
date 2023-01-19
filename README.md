@@ -9,7 +9,15 @@ Built using:
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
 
-In the /personal-portfolio, you can run:
+In the /personal-portfolio:
+
+First you need to install node modules for that
+
+you can run:
+
+### `npm install`
+
+after that run:
 
 ### `npm start`
 
